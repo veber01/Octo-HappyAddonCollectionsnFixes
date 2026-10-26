@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title : HappyCollections
+## Version : 0.1
+## Notes: A collection of QOL addons by happyness
+## DefaultState : enabled
+## Author: Happyness
+
+CharacterItemBorders.lua
+HappyChatFix.lua
+WoWHUProbe.lua
