@@ -1,5 +1,3 @@
--- WoWHU Probe: written to avoid Lua 5.1-only syntax (no '#', no '...', no string.match),
--- so it loads on either a Lua 5.0 or a Lua 5.1 client.
 local G = getfenv(0)
 
 local function count(t)

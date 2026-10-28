@@ -1,0 +1,17 @@
+FlightTimesData = {
+  ["Freewind Post, Thousand Needles>Gadgetzan, Tanaris"] = 87,
+  ["Gadgetzan, Tanaris>Freewind Post, Thousand Needles"] = 82,
+  ["Gadgetzan, Tanaris>Slickwick Oil Rig, Tanaris"] = 104,
+  ["Hammerfall, Arathi>Revantusk Village, The Hinterlands"] = 85,
+  ["Mudsprocket, Dustwallow Marsh>Thunder Bluff, Mulgore"] = 213,
+  ["Orgrimmar, Durotar>Thunder Bluff, Mulgore"] = 212,
+  ["Revantusk Village, The Hinterlands>Hammerfall, Arathi"] = 88,
+  ["Revantusk Village, The Hinterlands>Stonard, Swamp of Sorrows"] = 578,
+  ["Slickwick Oil Rig, Tanaris>Gadgetzan, Tanaris"] = 104,
+  ["Slickwick Oil Rig, Tanaris>Orgrimmar, Durotar"] = 499,
+  ["Stillward Church, Gilneas>Stonard, Swamp of Sorrows"] = 698,
+  ["Stonard, Swamp of Sorrows>Stillward Church, Gilneas"] = 675,
+  ["Tarren Mill, Hillsbrad>Revantusk Village, The Hinterlands"] = 185,
+  ["Thunder Bluff, Mulgore>Camp Taurajo, The Barrens"] = 82,
+  ["Thunder Bluff, Mulgore>Gadgetzan, Tanaris"] = 273,
+}

@@ -1,10 +1,15 @@
 ## Interface: 11200
 ## Title : HappyCollections
-## Version : 0.1
+## Version : 0.0.2
 ## Notes: A collection of QOL addons by happyness
 ## DefaultState : enabled
 ## Author: Happyness
+## SavedVariables: FlightTimesDB, WoWHUProbeDB
 
-CharacterItemBorders.lua
-HappyChatFix.lua
-WoWHUProbe.lua
+borders\CharacterItemBorders.lua
+
+fixes\HappyChatFix.lua
+fixes\WoWHUProbe.lua
+
+flight\Database.lua
+flight\FlightTimes.lua
